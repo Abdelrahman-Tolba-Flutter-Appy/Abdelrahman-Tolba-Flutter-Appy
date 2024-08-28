@@ -45,13 +45,15 @@
 <h2> About Me</h2>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/650393469436559360?simple=false)  
-<img src="https://komarev.com/ghpvc?username=abdoelmorap&label=Profile%20views&color=0e75b6&style=flat" alt="abdoelmorap" />  
+<img src="https://komarev.com/ghpvc?username=Abdelrahman-Tolba-Flutter-Appy&label=Profile%20views&color=0e75b6&style=flat" alt="abdoelmorap" />  
 
 
 <summary>Github Stats ⚡</summary>
   
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=abdoelmorap&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelmorap&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Tolba-Flutter-Appy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Tolba-Flutter-Appy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoelmorap&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=en" />
+
 
 <img style="float: right;" width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"   />
 
@@ -68,6 +70,13 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+
+
+
+
+
+
 
 
 
@@ -111,17 +120,19 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 
 <br>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdoelmorap&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdoelmorap&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdoelmorap&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdoelmorap&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdoelmorap&theme=aura&utcOffset=5.3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelrahman-Tolba-Flutter-Appy&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdelrahman-Tolba-Flutter-Appy&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdelrahman-Tolba-Flutter-Appy&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdelrahman-Tolba-Flutter-Appy&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdelrahman-Tolba-Flutter-Appy&theme=aura&utcOffset=5.3" />
 </div>
 <p>
 
 <br>
+My Clints Review At Freelancing Platforms
 <br>
 <div align="center">
+<img src="https://raw.githubusercontent.com/abdoelmorap/abdoelmorap/main/ezgif-7-a07dc5cc36.gif" alt="coding gif"   align="center">
 </div>
 <br>
 <!---
