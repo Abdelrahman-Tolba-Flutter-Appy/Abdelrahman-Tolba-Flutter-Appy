@@ -123,7 +123,6 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 My Clints Review At Freelancing Platforms
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/abdoelmorap/abdoelmorap/main/ezgif-7-a07dc5cc36.gif" alt="coding gif"   align="center">
 </div>
 <br>
 <!---
