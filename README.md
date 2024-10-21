@@ -50,9 +50,9 @@
 
 <summary>Github Stats ⚡</summary>
   
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Tolba-Flutter-Appy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Tolba-Flutter-Appy&theme=blueberry&count_private=true&hide_border=true&line_height=40)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Tolba-Flutter-Appy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Tolba-Flutter-Appy&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=en" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Tolba-Flutter-Appy&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&count_private=true&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=en" />
 
 
 <img style="float: right;" width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"   />
